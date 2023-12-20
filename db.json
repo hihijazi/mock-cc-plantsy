@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Aloe Vera Plant",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCkUW683ftXaIoHGhf6QQFXuQOSGT-NIusaduPH4_a0RDPr1YKTgMPnKHGgDbu-cXKZQoTPPxyFhLj8rFK2kW_4hJ97kMLEvdqg8u0xA0&usqp=CAc",
+      "price": "45",
+      "id": 8
     }
   ]
 }
